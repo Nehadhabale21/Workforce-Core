@@ -7,18 +7,28 @@ The system is designed to simplify HR and admin tasks such as adding employees, 
 _______________________________________
 🚀 Features
 •	👨‍💼 Employee CRUD operations (Add, View, Update, Delete)
+
 •	🏢 Department management
+
 •	🔑 Role-based access control (Admin/Employee)
+
 •	✅ Form validation & error handling
+
 •	🔍 Search & filter employees
+
 •	🎨 User-friendly JSP-based interface
+
 •	💾 Database integration with Hibernate ORM
 ________________________________________
 🛠 Technologies Used
 •	Backend: Spring MVC, Hibernate, Java
+
 •	Frontend: JSP, HTML, CSS
+
 •	Database: MySQL
+
 •	Build Tool: Maven
+
 •	Server: Apache Tomcat
 ________________________________________
 📂 Project Structure
@@ -53,15 +63,22 @@ WorkforceCore/
 ________________________________________
 🏆 Challenges Faced
 •	⚙️ Configuration Issues – Initial setup of Spring MVC & Hibernate integration.
+
 •	📝 Form Validation – Implemented custom annotations & error handling.
+
 •	🔄 Session & Transaction Management – Ensured proper commit/rollback in Hibernate.
+
 •	🔗 Frontend & Backend Integration – Debugged JSP + Controller mapping.
+
 •	🚀 Deployment – Resolved Apache Tomcat errors (URL mappings, missing libs).
 ________________________________________
 🔮 Future Enhancements
 •	⏱ Employee attendance management
+
 •	💰 Payroll module
+
 •	🌐 REST API integration
+
 •	🔒 JWT authentication & security
 ________________________________________
 📸 Screenshots
