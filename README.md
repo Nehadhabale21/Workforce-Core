@@ -1,20 +1,15 @@
-**Workforce Core - Employee Management System**
+📝 # **Workforce Core - Employee Management System**
 
-# workforce core
 
-#workforce core
-
-##workforce core
-
-## workforce core
-
-📌 **Project Description**
+📌 ### **Project Description**
 
 Workforce Core is a web-based Employee Management System built using Spring MVC, Hibernate, JSP, and MySQL.
+
 It provides an efficient way to manage employees, departments, and organizational workflows with CRUD operations, validation, and secure database integration.
+
 The system is designed to simplify HR and admin tasks such as adding employees, updating records, managing departments, and generating reports.
 _______________________________________
-🚀 **Features**
+🚀 ### **Features**
 
 •	👨‍💼 Employee CRUD operations (Add, View, Update, Delete)
 
@@ -30,7 +25,7 @@ _______________________________________
 
 •	💾 Database integration with Hibernate ORM
 ________________________________________
-🛠 **Technologies Used**
+🛠 ### **Technologies Used**
 
 •	Backend: Spring MVC, Hibernate, Java
 
@@ -42,7 +37,7 @@ ________________________________________
 
 •	Server: Apache Tomcat
 ________________________________________
-📂 **Project Structure**
+📂 ### **Project Structure**
 
 WorkforceCore/
 
@@ -101,7 +96,7 @@ WorkforceCore/
 │── pom.xml                           # Maven dependencies & build settings
 
 ________________________________________
-🏆 **Challenges Faced**
+🏆 ### **Challenges Faced**
 
 •	⚙️ Configuration Issues – Initial setup of Spring MVC & Hibernate integration.
 
@@ -113,7 +108,7 @@ ________________________________________
 
 •	🚀 Deployment – Resolved Apache Tomcat errors (URL mappings, missing libs).
 ________________________________________
-🔮 **Future Enhancements**
+🔮 ### **Future Enhancements**
 
 •	⏱ Employee attendance management
 
@@ -123,24 +118,24 @@ ________________________________________
 
 •	🔒 JWT authentication & security
 ________________________________________
-📸 **Screenshots**
+📸 ### **Screenshots**
 
-🏠 **Welcome Page:**
+🏠 #### **Welcome Page:**
 
 <img width="1903" height="888" alt="Welcome Page" src="https://github.com/user-attachments/assets/aed3dd03-a636-4659-a359-bd5391503943" />
 
-🔐 **Login Page:**
+🔐 #### **Login Page:**
 
 <img width="1845" height="856" alt="Login Page" src="https://github.com/user-attachments/assets/148232e1-22fd-4046-afa2-373d19e20fba" />
 
-📝 **Employee Registration:**
+📝 #### **Employee Registration:**
 
 <img width="1866" height="888" alt="Registration Page" src="https://github.com/user-attachments/assets/eda74245-32a3-4053-9e88-6dde617a2e03" />
 
-✏️ **Employee Update:**
+✏️ #### **Employee Update:**
 
 <img width="1906" height="881" alt="Updation Page" src="https://github.com/user-attachments/assets/a540a70b-573f-4fb9-b481-b2896cebdcf4" />
 
-👥 **All Registered Employees:**
+👥 #### **All Registered Employees:**
 
 <img width="1907" height="878" alt="Registered Employees Page" src="https://github.com/user-attachments/assets/e8fdfaef-7ec9-4d57-b538-2d8eca5c6c23" />
