@@ -1,4 +1,4 @@
-📝 # **Workforce Core - Employee Management System**
+📝 #**Workforce Core - Employee Management System**
 
 
 📌 ### **Project Description**
