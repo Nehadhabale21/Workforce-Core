@@ -1,7 +1,9 @@
 
 # 📝 **Workforce Core - Employee Management System**
 
+
 ### 📌 **Project Description**
+
 
 Workforce Core is a web-based Employee Management System built using Spring MVC, Hibernate, JSP, and MySQL.
 
@@ -10,6 +12,7 @@ It provides an efficient way to manage employees, departments, and organizationa
 The system is designed to simplify HR and admin tasks such as adding employees, updating records, managing departments, and generating reports.
 _______________________________________
 ### 🚀 **Features**
+
 
 •	👨‍💼 Employee CRUD operations (Add, View, Update, Delete)
 
@@ -27,6 +30,7 @@ _______________________________________
 ________________________________________
 ### 🛠 **Technologies Used**
 
+
 •	Backend: Spring MVC, Hibernate, Java
 
 •	Frontend: JSP, HTML, CSS
@@ -38,6 +42,7 @@ ________________________________________
 •	Server: Apache Tomcat
 ________________________________________
 ### 📂 **Project Structure**
+
 
 WorkforceCore/
 
@@ -98,6 +103,7 @@ WorkforceCore/
 ________________________________________
 ### 🏆 **Challenges Faced**
 
+
 •	⚙️ Configuration Issues – Initial setup of Spring MVC & Hibernate integration.
 
 •	📝 Form Validation – Implemented custom annotations & error handling.
@@ -110,6 +116,7 @@ ________________________________________
 ________________________________________
 ### 🔮 **Future Enhancements**
 
+
 •	⏱ Employee attendance management
 
 •	💰 Payroll module
@@ -119,6 +126,7 @@ ________________________________________
 •	🔒 JWT authentication & security
 ________________________________________
 ### 📸 **Screenshots**
+
 
 #### 🏠 **Welcome Page:**
 
